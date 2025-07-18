@@ -139,4 +139,4 @@ Save the file, and your Streamlit app will automatically reload with "Code Revie
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+> _This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details._

@@ -49,8 +49,8 @@ Follow these steps to run the application locally.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/djmahe4/gemini-pydantic
+cd gemini-pydantic
 ```
 
 ### 3. Set Up Your Environment Variable

@@ -2,7 +2,7 @@
 
 This Streamlit application is an interactive tool designed to demonstrate the powerful combination of Google's Gemini Pro generative AI and Pydantic for data validation. It serves as a hands-on playground to explore how you can transform unstructured text or simple prompts into clean, structured, and validated JSON output for various real-world tasks.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-pydantic.streamlit.app/)
+<!-- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-pydantic.streamlit.app/) -->
 
 ## ✨ Key Features
 

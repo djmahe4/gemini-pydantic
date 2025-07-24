@@ -73,7 +73,7 @@ pip install -r requirements.txt
 Once the setup is complete, you can run the Streamlit application with a single command:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 This will start a local server and open the application in your default web browser.

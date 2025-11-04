@@ -165,7 +165,7 @@ st.markdown(
 try:
     load_dotenv()
     genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
-    model = genai.GenerativeModel('gemini-2.5-pro')
+    model = genai.GenerativeModel('gemini-2.5-flash')
 except (KeyError, TypeError):
     st.error("⚠️ Your Google API Key is not configured. Please create a `.env` file with `GOOGLE_API_KEY='Your_Key'`.")
     st.stop()
